@@ -1,38 +1,20 @@
----
-layout: default
-title: 关于团队
----
+# Team profile
 
-# 团队与分工
-{:.no_toc}
+目前，在系统分析与设计课程中，小河马团队有 6 位成员，3 个部分
 
-* 目录
-{:toc}
+（名字里带有 * 表示他/她是分项负责人）
 
-| 版本 |   日期    | 描述 |  作者   |
-| :--: | :-------: | :--: | :-----: |
-| v1.1 | 2019-2-16 | 草案 | handsome-boy |
+- 项目经理: ECer23*
+- 前端团队: BeAShaper*, Arurururu, ECer23, JoryLiu
+- 后台团队: longjj*, Yunglinjy, Nition
 
-## 1、团队故事
+具体每位成员的职责如下
 
-Introduce something for your team
-
-## 2、团队分工
-
-|学号|昵称|Github|岗位角色|
-|:--:|:--:|:--:|:--:|
-|15331390|小张张|[HinanawiTenshi](https://github.com/HinanawiTenshi)|项目经理、java工程师|
-|15331385|小小良|[ZhangJiaQiao](https://github.com/ZhangJiaQiao)|客户经理、UI/UX设计师|
-|15331389|涵|[Hanwei Zhang](https://github.com/Richard4Yjl)|技术经理、js工程师|
-
-* 管理岗：项目经理、客户经理、产品经理
-* 技术岗：架构师（技术经理）、java工程师、js工程师、UI/UX设计师、数据库DBA、AI技术经理等
-* 质量岗：QA 工程师、DevOps 工程师
-
-*特别提示：不要在公共文档中出你的姓名、证件号码等；岗位角色名称要能体现业务职责与技能，不能是前台、后台这样笼统的分类*
-
-**具体分工与个人宣言**
-
-|昵称|分工内容|个人宣言|
-|:--:|:--:|:--:|
-|小小良|负责项目实行的质量、安全、进度、成本管理的整体掌控；负责协助前端开发、界面优化和算法分析优化|再迭代它一轮|
+学号 | 昵称 | 岗位角色 |
+--- | --- | --- | ---
+15331253 | [ECer23](http://www.ecr23.me) | 项目经理，UI/UX 设计师，js 工程师
+15331238 | BeAShaper | js 工程师
+15331251 | Arurururu | js 工程师
+15331229 | [longjj](http://longjj.com/) | 技术经理，后台 python 工程师
+15331200 | [Yunglinjy](http://jylin.me/) | 后台 python 工程师
+15331222 | Nition | 后台 python 工程师
